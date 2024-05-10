@@ -1,6 +1,6 @@
 # Julianna Ruelas's Portfolio 
 
-I am a Computer Science major currently aimming for a graduation in 2028 and is also looking to double major.
+I am a Computer Science major currently aimming for a graduation in 2028.
 
 ## Favorite labs from CPSC 120L
 
