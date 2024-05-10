@@ -2,6 +2,8 @@
 
 I am a Computer Science major currently aimming for a graduation in 2028.
 
+My Github page is http://github/jlruelas/ 
+
 ## Favorite labs from CPSC 120L
 
 Lab 7 Part 1:
