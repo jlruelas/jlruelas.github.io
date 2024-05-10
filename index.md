@@ -2,7 +2,7 @@
 
 I am a Computer Science major currently aimming for a graduation in 2028 and is also looking to double major.
 
-# Favorite labs from CPSC 120L
+## Favorite labs from CPSC 120L
 
 Lab 7 Part 1:
 This was also one of the labs that I enjoyed the most because of the different parking functions and combinations to practice on. It was a great lab to get used to the new functions that we learned in lectures.
