@@ -1,4 +1,4 @@
-# Julianna Ruelas's Portfolio 
+# Julianna Ruelas's Portfolio  
 
 I am a Computer Science major currently aimming for a graduation in 2028.
 
